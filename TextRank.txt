@@ -31,7 +31,13 @@ Article Example:
 
 Article Sites:
             https://dergipark.org.tr/tr/
-            https://dergipark.org.tr/tr/search?q=+DSP&section=articles    
+            https://dergipark.org.tr/tr/search?q=+DSP&section=articles
+
+Pipeline Tool:
+            https://github.com/ferittuncer/ITU-Turkish-NLP-Pipeline-Caller    
+
+PHP TDK Dictionary:
+            https://github.com/EmreKara5aya/php-tdk-sozluk
 
 Example Text:            
             text = "Python dili yazılım sektöründe sık sık kullanılan bir dildir, 'Veri Bilimin'de çok tercih edilir."
