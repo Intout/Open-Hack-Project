@@ -5,7 +5,7 @@
 9-pin printer   9 iğneli yazıcı
 abbreviate  kısaltmak
 abnormal end, abnormal termination  olağandışı son
-abort   durdurmak
+abort  durdurmak
 abort sequence  durdurma dizisi
 absolute    salt
 absolute address    salt adres
@@ -3079,29 +3079,29 @@ word    sözcük
 word processing sözcük işlem
 word wrap   sözcük kaydırma
 work    iş
-work    çalışmak
+work çalışmak
 work breakdown structure    iş dökümü yapısı
-Work file   Çalışma kütüğü
-working directory   yürürlükteki dizin çalışma
-worksheet   İşlem Tablosu
-worksheet   taslak
-Workspace   Çalışma alanı
+Work file Çalışma kütüğü
+working directory yürürlükteki dizin çalışma
+worksheet İşlem Tablosu
+worksheet taslak
+Workspace Çalışma alanı
 workstation iş istasyonu
-worm(write-once-read-many)  WORM
-wraparound  sarım
-write   yazmak
-write access    yazma erişimi
-write access    yazmak için
-write enable notch  yazılabilir çentiği
+worm(write-once-read-many) WORM
+wraparound sarım
+write yazmak
+write access yazma erişimi
+write access yazmak için
+write enable notch yazılabilir çentiği
 write protected yazma korumalı
 write protect notch yazmaya karşı koruma çentiği
-write protect tab   yazmaya karşı koruma anahtarı
-zero index carrier return   aynı satırda satırbaşı
-Zip Code    Posta kodu
-zone    bölge
+write protect tab yazmaya karşı koruma anahtarı
+zero index carrier return aynı satırda satırbaşı
+Zip Code Posta kodu
+zone bölge
 zoom in büyütmek
 zoom in yaklaştırmak
-zoom out    küçültmek
-zoom out    uzaklaştırmak
-zoom (to)   büyütmek
-zoom(to)    Yakınlaştırmak
+zoom out küçültmek
+zoom out uzaklaştırmak
+zoom (to) büyütmek
+zoom(to) Yakınlaştırmak
