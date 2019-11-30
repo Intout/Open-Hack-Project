@@ -14,6 +14,9 @@ TextRank algorythm:
 Turkish grammer:
             https://medium.com/@duygu.altinok12/turkish-nlp-a-gentle-introduction-2b33e694dd78
 
+Turkish Library:
+            https://pypi.org/project/turkishnlp/
+
 Language Detector:
             https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language
 
