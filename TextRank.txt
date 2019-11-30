@@ -1,1 +1,28 @@
-https://github.com/summanlp/textrank
+Textrank:   
+            https://github.com/summanlp/textrank
+            https://github.com/davidadamojr/TextRank/tree/master/textrank
+            https://github.com/DerwenAI/pytextrank //personal choise
+
+Text Summarization:
+            https://github.com/pemagrg1/text_summarization/blob/master/various_ways_to_summarize.py
+            https://www.analyticsvidhya.com/blog/2018/11/introduction-text-summarization-textrank-python/
+            https://github.com/pemagrg1/text_summarization/blob/master/various_ways_to_
+                        
+TextRank algorythm: 
+            https://dergipark.org.tr/en/download/article-file/735455
+
+Turkish grammer:
+            https://medium.com/@duygu.altinok12/turkish-nlp-a-gentle-introduction-2b33e694dd78
+
+Language Detector:
+            https://stackoverflow.com/questions/39142778/python-how-to-determine-the-language
+
+Spacy Models:
+            https://spacy.io/usage/models
+
+Spacy multi-language model:
+            xx_ent_wiki_sm
+
+Example Text:            
+            text = "Python dili yazılım sektöründe sık sık kullanılan bir dildir, 'Veri Bilimin'de çok tercih edilir."
+            text = "Eski çağlardan beri maddenin yapısı üzerine düşünen filozoflar maddenin sonsuz derecede küçük parçalara bölünüp bölünemeyeceği üzerine kafa yordular. Her şeyin toprak, su, hava ve ateş gibi her büyüklükte (küçüklükte) var olabilen 4 unsurun çeşitli oranlarda karışımlarıyla oluştuğunu düşünenler etkindi. Antik Yunan uygarlığının altın çağında, MÖ 5. yüzyılda yaşamış Leukippos ve öğrencisi Demokritos, daha sonra Epikuros ve Lukretius maddenin daha fazla bölünemez anlamında a-tomus denen en küçük parçalardan oluştuğunu öne sürdüler.Deney ve gözleme dayanan modern bilimin gelişmesinden sonra 1803 yılında John Dalton atom fikrini canlandırdı. Dalton, kimyasal reaksiyonlarda her bir maddenin kendine özgü temel bir kütlenin katlarıyla yer aldığına dikkat çekti, buradan bir maddenin atomlarının (veya en küçük birimlerinin, bunlar birkaç atomdan oluşan moleküller de olabilir) belli bir kütlesi olduğunu öne sürdü.Her maddenin bu kendine özgü kütlesinde (buna ‘mol’ denir) o maddenin atom ya da moleküllerinden Avogadro sayısı denen bir sayıda bulunmalıdır: Avogadro sayısı her gramda kaç temel atom birimi (Hidrojen atomu) kütlesi olduğunu veren sayıdır.1869 da Dimitri Mendeleev elementleri atom ağırlıklarının yanı sıra kimyasal özelliklerine göre de düzenleyen Periyodik Tabloyu geliştirdi. Bu yıl Periyodik Tablonun 150. Yılını kutluyoruz. Periyodik Tablo temel kimya bilgisini atom fikrini de içeren toplu ve sistematik şekilde sunar. Yine de 20. Yüzyılın başlarına kadar birçok bilim insanı atomların gerçekten var olan nesneler mi yoksa maddenin taşıdığı soyut bir özellik mi olduğunu bilemiyorlardı. Doğrudan doğruya atomların fiziksel varlığını gösteren bir deney ve açıklama ortada yoktu henüz."
