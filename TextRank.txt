@@ -23,8 +23,15 @@ Language Detector:
 Spacy Models:
             https://spacy.io/usage/models
 
-Spacy multi-language model:
+Spacy Multi-language Model:
             xx_ent_wiki_sm
+
+Article Example:
+            https://dergipark.org.tr/tr/download/article-file/126158
+
+Article Sites:
+            https://dergipark.org.tr/tr/
+            https://dergipark.org.tr/tr/search?q=+DSP&section=articles    
 
 Example Text:            
             text = "Python dili yazılım sektöründe sık sık kullanılan bir dildir, 'Veri Bilimin'de çok tercih edilir."

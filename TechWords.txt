@@ -1,0 +1,3107 @@
+12-hour clock   12 saatlik zaman biçimi
+12-hour time format 12 saatlik zaman biçimi
+24-hour clock   24 saatlik zaman biçimi
+24-hour time format 24 saatlik zaman biçimi
+9-pin printer   9 iğneli yazıcı
+abbreviate  kısaltmak
+abnormal end, abnormal termination  olağandışı son
+abort   durdurmak
+abort sequence  durdurma dizisi
+absolute    salt
+absolute address    salt adres
+absolute device salt aygıt
+absolute loader salt yükleyici
+abstract    özet
+abstract    soyut
+abstract syntax tree    soyut sözdizim ağacı
+accelerate  hızlandırmak
+acceleration    ivme
+accept  onaylamak
+accesibility    erişilirlik
+accesible   erişilir
+access  erişmek
+access  erişim
+access method   erişim yöntemi
+accessory   donatı
+access time erişim süresi
+accumulate  biriktirmek
+accumulator birikeç
+accumulator-bus birikeç yolu
+accuracy    doğruluk
+acknowledge alındılamak
+acknowledge character   alındı damgası
+acknowledgement alındı
+acoustic    yankılanım (ad)
+acoustic    yankılanımlı (s)
+acoustic coupler    yankılanımlı bağlayıcı
+acronym kısaad
+action bar  menü çubuğu
+activate    etkinleştirmek
+active  etkin
+activity    etkinlik
+activity counter    işleklik sayacı
+activity ratio  işleklik oranı
+actuator    erişim düzeneği
+adapt   uyarlamak
+adapter bağdaştırıcı
+added value katma değer
+addend  toplanan
+address adres
+address bus adres yolu
+address conversion  adres dönüştürme
+addressee   alıcı
+address translation adres dönüştürme
+adhoc (query)   anlık (sorgu)
+adjacent    bitişik
+adjust  ayarlamak
+administratori manager  yönetici
+adopt   edinmek
+advance ilerlemek
+advanced    gelişmiş
+advanced    ileri
+advantage   yarar kazanımı
+after-image değişiklik sonrası kopya
+agent   aracı
+aggregate   kümelemek
+aid yardım
+alarm   uyarı
+alarm clock çalar saat
+alert   uyarmak
+alert (n)   uyarı
+algorithm   algoritma
+algorithm   Harzemli Yolu
+alias   arma
+alias   öteki ad
+align   hizalamak
+all tümü
+all authority   tam yetki
+all caps    tümü büyük harf
+allocatable resource    ayrılabilir kaynak
+allocate    ayırmak
+allocation unit yerleşim birimi
+all-points addressable  tüm noktaları adreslenir
+all rights reserved tüm hakları saklıdır
+alphabet    abece
+alphabetic  abecesel
+alphanumeric    abecesayısal
+alter   değiştirmek
+alternate, alternative  öteki
+alternate character set öteki karakter seti
+alternate code page öteki kod sayfası
+alternate collating sequence    öteki birleştirme sırası
+alternate current, alternating current  dalgalı akım
+alternate track yedek iz
+alternating dalgalı
+alternative seçenek
+alternative öteki
+Alt Gr key  Alt Gr tuşu
+Alt key Alt tuşu
+AM (12 saatlik zaman biçimi)    ÖÖ (Öğleden Önce)
+American National Standards Institute   Amerikan Ulusal Standartlar Enstitüsü
+ampersand   ve imi
+amplifier   yükselteç
+amplitude   genlik
+analog  örneksel
+analog-to-digital converter(ADC)    örnekselden sayısala dönüştürücü
+analogy örnekseme
+analysis    çözümleme
+analyzer    çözümleyici
+anchor point    demir atma noktası
+animate canlandırmak
+animation   canlandırma
+annotation  ek açıklama
+answerback  karşılık vermek
+anticipatory buffering  önceden ara belleğe alma
+anticipatory paging önceden sayfalama
+anticlockwise, counter clockwise    saat yönünün tersi
+antistatic  durağan olmayan
+antonyms    karşıt anlamlılar
+aperture    açıklık
+apostrophe  kesme imi
+appear  görünmek
+append  sona eklemek
+appendix    ek
+application uygulama
+application enabling    uygulama altyapısı sağlama
+application program uygulama programı
+application requester   uygulama istemcisi
+application server  uygulama sunucusu
+application software    uygulama yazılımı
+apply   uygulamak
+approve onaylamak
+approximate yaklaşık
+Arabic numbers  Arap sayıları
+arbitrary   isteğe bağlı
+arc yay
+architecture    mimari
+archive belgelik
+area    alan
+area chart  alan çizgesi
+argument    bağımsız değişken
+arithmetic  aritmetik
+arrange düzenlemek
+array   dizi
+arrival sequence access path    geliş sıralı erişim yolu
+arrow   ok
+arrow head  ok ucu
+arrow key   ok tuşu
+article yazı
+artificial  yapay
+artificial intelligence yapay anlayış
+artwork çizim
+ascender    harfin üst çıkıntısı
+ascending   artan
+ascending order artan sıra
+ascent  harfin üst çıkıntısı
+aspect ratio    en boy oranı
+assembler   çevirici
+assembly    çevirme
+assembly language   çevirici dili
+assign  atamak
+assignment (n)  atama
+assignment statement    atama deyimi
+assistance  yardım
+assocation  birlik
+associate   ilişkilendirmek
+association ilişki
+associative memory  çağrışımlı bellek
+assume  varsaymak
+assumption  varsayım
+assurance   güvence
+asterisk    yıldız imi
+asymmetric  bakışımsız
+asynchronous    zamanuyumsuz
+attach (hardware)   bağlamak
+attachment  ek
+attachment (hardware)   bağlantı
+attach (software)   iliştirmek
+attended operation  gözetimli işletim
+attention   uyarı
+attention   dikkat
+attenuation zayıflama
+attribute   öznitelik
+audible sesli
+audio   ses
+audio   işitsel
+audio tape  ses şeridi
+audit   denetlemek
+audit trail denetleme izi
+authenticate    doğrulamak
+authentication  kimlik denetimi
+authority   yetke
+authorization   yetki
+authorize   yetkilendirmek
+authorized  yetkili
+auto adjust özdevimli ayar
+auto answer özdevimli yanıt
+auto, automatic, automatically  özdevimli
+auto call   özdevimli çağırma
+autocorrelation öz ilinti
+auto-dim    özdevimli görüntü karartma
+auto-dim interval   karartma için bekleme süresi
+auto-feed   özdevimli besleme
+auto link   özdevimli bağ/bağlantı
+auto logon  özdevimli bağlantı
+automata    özdevinir
+automated teller machine    özdevimli vezne
+automatic Startup   özdevimli başlama
+automation  özdevinim
+autosave    özdevimli kaydetme
+autosave frequency  özdevimli kaydetme sıklığı
+auto select özdevimli seçme
+auto Update özdevimli güncellemek
+auxiliary   yardımcı
+auxiliary storage   yardımcı bellek
+availability    kullanılırlık
+available   kullanılır
+average ortalama
+axis    eksen
+axis translation line   eksen kaydırma çizgisi
+babble  parazit
+background  artalan
+background job  artalan işi
+backlighted, backlit    arkadan aydınlatmalı
+backlog birikim
+backout geri çekmek
+backslash   ters eğik çizgi
+back space  geriletmek
+backspace key   geri tuşu
+backtab geri sekme
+back tracking   gerileme
+backup  yedek
+back up yedeklemek
+backup  yedeklemek
+back up copy    yedek kopya
+back up frequency   yedekleme sıklığı
+backward    geriye
+backwards compatibility geriye uyumluluk
+badge   kimlik kartı
+bad sector  bozuk kesim
+balance kalan
+balance dengelemek
+band    bant
+band printer    kuşak yazıcı
+bandwidth   bant genişliği
+bank    sıra
+bank select sıra seçimi
+banner  büyük başlık
+bar çubuk
+bar)    çizge
+bar chart   çubuk çizim
+barcode çubukkod
+bar code slot reader    yuvalı çubukkod okuyucu
+bar code wand   çubukkod okuma kalemi
+base    taban
+base address    taban adresi
+baseband    ana bant
+baseline    taban çizgisi
+base register   taban yazmacı
+basic   temel
+batch   toplu
+batch file  toplu iş
+batch file  toplu iş kütüğü
+batch file  toplu kütük
+batch job   toplu iş
+batch processing    toplu işlem
+battery akü
+battery pil
+battery pack    pil takımı
+baud    baud
+baud rate   baud hızı
+beam    ışın
+beep    bip
+before-image    değişiklik öncesi kopya
+Beginner s All-purpose Symbolic Instruction Code    BASIC (programlama dili)
+bell    zil
+belt    kuşak
+benchmark   karşılaştırmalı değerlendirme
+benchmark test  karşılaştırmalı değerlendirme deneyi
+best fit    uygun
+bias    sapmak
+bias    yanlılık
+bibliography    kaynakça
+bidirectional   iki yönlü
+bin sele
+binary  ikili
+binary code ikili kod
+binary-coded decimal    ikili kodlanmış onlu
+binary digit    ikili sayı
+binary file ikili kütük
+binary search   bölerek arama
+bind    bağlamak
+binding margins cilt payı boşluğu
+bin feed    seleden besleme
+bionics dirimkurgu
+bipolar iki kutuplu
+bistable    iki durumlu
+bit ikil
+bit map ikil eşlemi
+bitmapped   ikil eşlemli
+bits per character  ikil/karakter
+bits per second ikil/saniye
+black-and-white ak kara
+blank   boş
+blank   boşluk
+blank character boşluk karakteri
+blanket örtü
+blink   yanıp sönme
+block copy  öbek kopyalama
+block delete    öbek silme
+block, group    öbek
+block move  öbek taşıma
+block selection öbek seçimi
+board   çevrim kartı
+body    gövde
+boilerplate text    ortak metin
+bold    kalın
+bold    koyu
+boldface    kalın
+bookmark    yer imi
+bookmarked area yer imli alan
+Boolean Boole
+Boolean algebra Boole cebri
+Boolean character   Boole damgası
+Boolean instructions    Boole komutları
+Boolean operator    Boole işleci
+boot    önyüklemek
+bootstrap   önyükleme
+border  sınır
+bottom  alt
+bottom margin   alt kenar boşluğu
+bottom-up parsing   aşağıdan yukarıya ayrıştırma
+bottom-up programming   aşağıdan yukarıya programlama
+bounce  yansıma
+boundary    sınır
+boundary condition  sınır koşulu
+boundary value  sınır değer
+box kutu
+boxed paragraph kutulanmış paragraf
+brace   kaşlı ayraç
+bracket köşeli ayraç
+branch  dallanmak
+branch  şube
+branching   dallanma
+break   kesmek
+breakdown   aksaklık
+breakdown   döküm
+break-even point    başabaş noktası
+breaking link   bağlantı kesme
+breakpoint  kesme noktası
+bridge  köprü
+brightness  parlaklık
+bring to front  öne getirmek
+broadband, wideband geniş bant
+broadcast   yayımlamak
+broken word bölünmüş sözcük
+browse  göz atmak
+brush   fırça
+bubble board    kabarcık bellek kartı
+bubble memory   kabarcık bellek
+bubble sort elemeli sıralama
+bucket  kova
+buffer  arabellek
+buffering   arabelleğe alma
+buffer (proje yönetimi) yedek zaman aralığı
+bug yanlış
+built-in    yerleşik
+bulk    yığın
+bulk storage    yığın bellek
+bullet  madde imi
+bulleted list   madde imli liste
+bulleted paragraph  madde imli paragraf
+Bulletin Board Services Duyuru Tahtası Hizmetleri
+burned-in image izi kalan görüntü
+burn-in yazmak
+burst   kağıt ayırmak
+burster kağıt ayırıcı
+burst mode  tekil kip
+bus yol
+business case   olurluk incelemesi
+bus mouse   seri (dizisel) bağlantılı fare
+busy    kullanımda
+button, pushbutton  düğme
+by default, default varsayılan
+bypass  atlamak
+byte    sekiz ikil
+cabinet dolap
+cable   kablo
+cache buffer    ön arabellek
+cache, memory cache önbellek
+caching önbelleğe alma
+calculate   hesaplamak
+calculator  hesap makinesi
+calendar    takvim
+calibrate   ayarlamak
+call    çağırmak
+call    çağrı
+callback    geri çağırmak
+cancel  vazgeç
+cancel button   vazgeç düğmesi
+capability  yetenek
+capacity    sığa
+capital büyük harf
+capitalization  büyük harfe çevirme
+capitalized letter  büyüğe çevrilmiş harf
+capital letter  büyük harf
+caps lock   büyük harf kilidi
+caption başlık
+capture yakalamak
+carbon copy bilgi için
+carbon copy list    bilgilendirilecekler listesi
+card    kart
+cardinal number sayal sayı
+caret   düzeltme imi
+carriage return satırbaşı
+carrier taşıyıcı
+carrier return  yeni satırbaşı
+carry   elde
+cartridge   kutucuk
+cartridge tape unit kutucuk teyp birimi
+cascade basamaklamak
+CASE    Computer Aided Systems Engineering
+case conversion büyük küçük harf dönüşümü
+case sensitive  büyük ve küçük harfe duyarlı
+case study  örnek olay incelemesi
+cash    nakit
+cash register   yazar kasa
+cassette    kaset
+catalog katalog
+category    ulam
+cathode ray tube    katot ışınlı tüp
+CD burner   CD yazıcı
+CD-ROM  CD-ROM
+CD-ROM driver   CD-ROM sürücü
+CD-ROM-Player   CD-ROM-Okuyucu
+cell    göze
+cell protection göze koruması
+cell range  göze erimi
+center  merkez
+center alignment    ortalama
+centimeters santimetre
+central merkezi
+central processing unit ana işlem birimi
+certificate, certification  onay belgesi
+chained file    zincirleme kütük
+chained list    zincirleme liste
+chaining    zincirleme
+change  değiştirmek
+channel kanal
+channel-attached    kanala bağlı
+chapter bölüm
+Chapter Heading Bölüm Başlığı
+chapter heading bölüm başlığı
+character   damga
+characteristic, feature özellik
+character recognition   karakter tanıma
+character set   karakter kümesi
+characters per inch karakter/inç
+character string    damga dizgisi
+chart (pie  çizge
+check   denetim
+check   sağlama
+check bit   sağlama biti
+check box   onay kutusu
+check digit sağlama sayısı
+check mark  onay imi
+checkpoint  denetim noktası
+checkpoint/restart procedure    denetim noktası/yeniden başlatma yorda
+checksum    sağlama toplamı
+child   alt
+chip    yonga
+choice  seçim
+choose  seçmek
+cipher  şifrelemek
+circle  çember
+circle  dönge
+circuit çevrim
+circuit switching   çevrim anahtarlama
+circular reference  çevrimsel gönderme
+clamp   kıskaç
+classification  sınıflama
+classify    sınıflamak
+clause  yantümce
+clear   temizlemek
+clearance   yetki
+clear session   şifresiz oturum
+click   tıklatmak
+client  istemci
+client/server   istemci/sunucu
+client/server application   istemci/sunucu uygulaması
+clip    kırpma
+clipart kırpıntı çizge
+clipboard   pano
+clock   saat
+clocking    saatle denetim
+clock pulse, clock signal   saat vurumu
+clock rate  saat vurum sıklığı
+clockwise   saat yönü
+close   kapatmak
+close box   kapatma kutusu
+closed cycle control system kapalı çevrimli denetim sistemi
+closed loop kapalı döngü
+closedown   kapanış
+closed routine  kapalı yordam
+closing parenthesis sağ ayraç
+cluster küme
+coated  kaplanmış
+coaxial eşeksenli
+code    kod
+code page   kod sayfası
+code page switching kod sayfası değiştirme
+code point  kod noktası
+coefficient katsayı
+coil    sargı
+coincidence çakışma
+cold start  soğuk başlatma
+collapse(to)    daraltmak
+collate harmanlamak
+collating sequence  harmanlama sırası
+collision   çarpışma
+collision detection çarpışma algılaması
+colon alignment iki noktaya göre hizalama
+color   renk
+color graphics  renkli grafik
+color graphics adapter  Renkli Grafik Bağdaştırıcı
+color map   renk eşlemi
+color palette   renk paleti
+color wheel renk tekeri
+column  dikeç
+column boundaries   dikeç sınırları
+column break    dikeç sonu
+column heading  dikeç başlığı
+column marker   dikeç imi
+column width    dikeç genişliği
+combination birleşim
+combination box birleşik giriş kutusu
+combination key birleşik tuş
+combine birleştirmek
+comma   virgül
+comma alignment virgüle göre hizalama
+comma delimited virgülle sınırlanmış
+command komut
+command check   komut hatası
+command file    komut kütüğü
+command interpreter komut yorumlayıcı
+command key komut tuşu
+command language    komut dili
+command line    komut satırı
+command menu    komut menüsü
+command prompt  komut istemi
+command sequence    komut dizisi
+comment açıklama
+commit  üstlenmek
+common (adj)    ortak
+common area, common field   ortak alan
+Common Programming Interface    Ortak Programlama Arabirimi
+Common User Access  Ortak Kullanıcı Erişimi
+communication   iletişim
+communications manager  iletişim yöneticisi
+communications port iletişim kapısı
+communucation line  iletişim hattı
+communucation link  iletişim bağlantısı
+communucation network   iletişim ağı
+compact computer    tek parça bilgisayar
+compact disc    yoğun disk
+compaction  sıkıştırma
+compact list    aralıksız liste
+compact system  küçük boyutlu sistem
+comparative sort    karşılaştırmalı sıralama
+comparator  karşılaştırıcı
+compare karşılaştırmak
+compatibility   uyumluluk
+compatible  uyumlu
+compilation derleme
+compile derlemek
+compiler    derleyici
+compiler generator  derleyici üreteci
+complement  tümleyici
+complex karmaşık
+complex number  karmaşık sayı
+component   bileşen
+composite   birleşik
+composite key   birleşik anahtar
+compound    bileşik
+Compound Document Architecture  Bileşik Belge Mimarisi
+compress    sıkıştırmak
+compressed file sıkıştırılmış kütük
+compressed text sıkıştırılmış metin
+compression sıkıştırma
+compromise  uzlaşma
+computational linguistics   bilişimsel dilbilim
+compute hesaplamak
+computer    bilgisayar
+Computer Aided Design   Bilgisayar Destekli Tasarım (BDT)
+Computer Aided Education    Bilgisayar Destekli Eğitim (BDE)
+Computer Aided Engineering  Bilgisayar Destekli Mühendislik (BDM)
+Computer Aided Manufacturing    Bilgisayar Destekli Üretim (BDÜ)
+computer center bilgisayar merkezi
+computer conferencing   bilgisayar aracılığıyla toplantı
+computer crime  bilgisayar suçu
+Computer Integrated Manufacturing   Bilgisayarla Tümleşik Üretim (BTÜ)
+computerize bilgisayara uyarlamak
+computerized numerical control  bilgisayarlı sayısal denetim
+computerized office bilgisayarlı ofis
+computer science    bilgisayar bilimi
+concatenate bitiştirmek
+concatenated field  bitiştirilmiş alan
+conceptual  kavramsal
+concrete    somut
+concurrent  koşutzamanlı
+condense    yoğunlaştırmak
+condensed print, compressed print   sıkıştırılmış yazdırma
+condition   koşul
+conditional instruction koşullu yönerge
+conditional transfer    koşullu aktarma
+conduit kablo borusu
+confidential    gizli
+configuration   yapılanış
+configurator    konfigürasyon tanımlayıcı
+configure   yapılandırmak
+confirm doğrulamak
+conflict    çelişmek
+congestion  tıkanıklık
+conjunction birleşme
+connect bağlamak
+connection  bağlantı
+connectivity    bağlanırlık
+connector   bağlayıcı
+consecutive ardışık
+consistency tutarlılık
+console işletmen uçbirimi
+constant    değişmez
+constrain   kısıtlamak
+constraint  kısıt
+contact değmek
+container   kap
+content içerik
+contention  çekişme
+contents    içindekiler
+context bağlam
+context-free    bağlam duyarsız
+context sensitive   bağlama duyarlı
+contextual help bağlamsal yardım
+contiguous  bitişik
+continuation    sürdürme
+continuation character  sürdürme karakteri
+continue    sürdürmek
+continuous  sürekli
+continuous feed sürekli besleme
+continuous paper    sürekli kağıt
+contractor  yüklenici
+contrast    karşıtlık
+contrast control    karşıtlık ayarı
+control denetlemek
+control ball    imleç denetim topu
+control character   denetim karakteri
+control codes   denetim kodları
+controller  denetleyici
+control menu    denetim menüsü
+control panel   denetim masası
+convention  kural
+conventional    geleneksel
+convergence yakınsama
+conversational  etkileşimli
+conversion  dönüştürme
+convert dönüştürmek
+converter   dönüştürücü
+convex  dışbükey
+cooperative processing  işbirlikli işlem
+coordinate  eşgüdüm sağlamak
+coordinate  konaç
+coordination    eşgüdüm
+coordinator eşgüdümcü
+coprocessor yardımcı işlemci
+copy    kopyalamak
+copy protection kopya koruması
+copyright   telif hakkı
+cord    kablo
+core (memory)   çekirdek
+corequisite yankoşul
+co-resident birlikte yerleşik
+corner  köşe
+correct doğru
+correction  düzeltme
+corrective maintenance  onarım
+correlation ilinti
+correspondence  yazışma
+corresponding   ilişkin
+corruption  bozulma
+cost-effective  uygun maliyetli
+count   saymak
+counter sayaç
+country ülke
+coupler bağlaştırıcı
+coupling    bağlaşım
+cover page  kapak sayfası
+create  yaratmak
+criteria    ölçüt
+critical    kritik
+critical path   kritik yol
+Critical Path Method (CPM)  kritik yol yöntemi
+crop marks  kırpma imleri
+cropping    kırpma
+cross-domain    etki alanları arası
+crosshair cursor, hair cross cursor ince artı imleci
+cross reference çapraz başvuru
+crosstalk   yanses
+cryptanalist    şifre çözümleyici
+cryptographic   şifrelemeyle ilgili
+cryptography    şifreleme
+CUA architecture    CUA mimarisi
+cumulative  birikimli
+cumulative error    birikimli hata
+currency    para birimi
+currency symbol para birimi simgesi
+current akım
+current yürürlükteki
+current date    günün tarihi
+current directory   yürürlükteki dizin
+current document    yürürlükteki belge
+current drive   yürürlükteki sürücü
+current library yürürlükteki kitaplık
+current release son yayım
+current time    şu anki saat
+cursor  imleç
+cursor control keys imleç denetim tuşları
+cursor movement key imleç yön tuşu
+curve   eğri
+customer    müşteri
+customer setup  müşterice kurulan
+customizable    uyarlanır (isteğe)
+customize   uyarlamak (isteğe)
+custom, private, special    özel
+cut kesmek
+cut and paste   kesmek ve yapıştırmak
+cut form    yaprak
+cut off kesmek
+cut sheet   yaprak
+cut sheet feeder    yaprak besleyici
+cybernetics güdümbilim
+cycle   dönüş
+cycle stealing  dönüş çalma
+cycle time  dönüş süresi
+cyclic  dönüşsel
+cyclic redundancy check dönüşsel artıklık denetimi
+cylinder    silindir
+daily (adj.)    günlük
+daisy-chain papatya dizimi
+daisy wheel printer papatya çarklı yazıcı
+damage  zarar vermek
+dash    çizgi
+dashed line kesikli çizgi
+data    veri
+data access veri erişimi
+data bank   veri bankası
+database    veritabanı
+data base, database (DB)    veri tabanı
+database integrity  veritabanı bütünlüğü
+database management system(DSMS)    veri tabanı yönetim sistemi (VTYS)
+data bus    veri yolu
+data collection terminal    veri toplama uçbirimi
+data communucation  veri iletişim
+datacommunucations  veri iletişimi
+data communucations equipment(DCE)  veri iletişim donatımı
+data dictionary veri sözlüğü
+data dispenser  veri dağıtıcısı
+data document   veri belgesi
+data entry  veri girişi
+data file   veri kütüğü
+Data-flip-flop  veri yazbozu
+data fork   veri çatalı
+data integrity  veri bütünlüğü
+data interchange format veri değişim biçimi
+data link   veri bağlantısı
+data management veri yönetimi
+data model  veri modeli
+data processing bilgi işlem
+data processing center  bilgi işlem merkezi
+data protection veri koruma
+data rate   veri hızı
+data receiver   veri alıcı
+data record veri tutanağı
+data reduction  veri azaltma
+data reference  veri gönderisi
+data reference line veri taban çizgisi
+data repository veri havuzu
+data security   veri güvenliği
+data set    kütük
+datasheet   veri sayfası
+data signalling rate    veri iletişim hızı
+data sink   veri biriktirici
+data source veri kaynağı
+data storage density    veri saklama yoğunluğu
+data storage unit   veri saklama birimi
+data structure  veri yapısı
+data tablet veri tableti
+data text, datatext veri metni
+data/text merge veri/metin birleştirme
+data transcription  veri çevriyazımı
+data transfer   veri aktarımı
+data transfer rate  veri aktarım hızı
+data transmission   veri iletimi
+data type   veri türü
+date    tarih
+date format tarih biçimi
+day gün
+deactivate  etkinliğini kaldırmak
+deadline    son gün
+deadlock    kilitlenme
+deallocate  serbest bırakmak
+debug   yanlış ayıklamak
+debugger    yanlış ayıklayıcı
+debugging   yanlış ayıklama
+decentralized   dağıtılmış
+decimal ondalık
+decimal onlu
+decimal aligned ondalık ayırıcı hizalı
+decimal alignment   ondalık ayırıcıya göre hizalama
+decimal character   ondalık karakter
+decimal place   ondalık basamak
+decimal point   ondalık ayırıcı
+decimal tabs    ondalık sekmeler
+decimal tabstop ondalık sekme durakları
+decimal value   ondalık değer
+decipher    şifre çözmek
+decision    karar
+decisional database karar veri tabanı
+deck    deste
+declaratives    bildirim deyimleri
+declare bildirmek
+decode  kod çözmek
+decompile   kaynak koda dönüştürme
+decompress  sıkıştırılmışı açmak
+decrease (to)   azaltmak
+decrement   azaltmak
+decrement   azalma miktarı
+decrypt şifre çözmek
+dedicate    adamak
+dedicated   adanmış
+default value   varsayılan değer
+defer   ertelemek
+define  tanımlamak
+definite    kesin
+definition  tanım
+definition  tanımlama
+deflection  yön saptırma
+deflector   saptırıcı (yön)
+defragment  birleştirmek, bütünle(ş)mek
+degradation bozulma
+degree  derece
+delay   geciktirmek
+delay time  gecikme süresi
+delegate    yetki aktarmak
+delete  silmek
+Delete key  Sil tuşu
+deletion mark   silme imi
+delimiter   sınırlayıcı
+delivery    teslim
+Del key Sil tuşu
+demand  istem
+demand multiplexing istem çoklama
+demand paging   sayfalı görüntü bellek yönetimi
+demodulate  kip çözmek
+demodulator kip çözücü
+demonstration   gösteri
+demote (to) indirgemek
+demount bağlantıyı kaldırma
+denominator (re: fractions) payda
+density yoğunluk
+dependent   bağımlı
+derivation  türetme
+descender   harfin alt çıkıntısı
+descending  azalan
+descending order    azalan sıra
+descent harfin alt çıkıntısı
+description betimleme
+deselect    seçimi kaldırmak
+deselect all    tüm seçimleri kaldırmak
+design  tasarım
+design  tasarlamak
+designation belirtme
+desk    masa
+desk accessory  masa donatısı
+desktop masaüstü
+desktop manager masaüstü yöneticisi
+desktop pattern masaüstü deseni
+desktop publishing  masaüstü yayıncılık
+destination varış
+destination address varış adresi
+destructive yıkıcı
+destructive read    silici okuma
+detache ayırmak
+detail  ayrıntı
+detail report   ayrıntı raporu
+detectable  algılanır
+determinant belirteç
+develop geliştirmek
+developer   geliştirici
+development tool    geliştirme aracı
+device  aygıt
+device driver   aygıt sürücü
+device independent  aygıttan bağımsız
+device token    aygıt simgesi
+diacritical mark    vurgu imi
+diagnose    tanılamak
+diagnosis   tanı
+diagnostic message  tanı iletisi
+diagonal    köşegen
+diagram çizge
+dial    çevirmek
+dialed line çevirmeli hat
+dialog box  iletişim kutusu
+dial tone   çevir sesi
+dial-up terminal    çevirmeli uçbirim
+dictionary  sözlük
+digit   sayı
+digit   basamak
+digital sayısal
+digitize    sayısallaştırmak
+digitizer   sayısallaştırıcı
+dim soluk
+dimension   boyut
+dimmed  soluk
+dimmer switch   karartma ayarlı anahtar
+diode   diyot
+direct  doğrudan
+direct access   doğrudan erişim
+direct access storage device    doğrudan erişimli saklama aygıtı
+direct address  doğrudan adres
+direct address  dolaysız adres
+direct current  doğru akım
+direction   yön
+direction keys  yön tuşları
+direct memory access (DMA)  doğrudan bellek erişimi
+directory   dizin
+directory listing   dizin içerik listesi
+directory location  dizin yeri
+directory tree  dizin ağacı
+direct slot doğrudan yuva
+disable seçilemez kılmak
+disabled    seçilemez kılınmış
+disadvantage    yarar yitimi
+disappear   yok olmak
+disassemble tersine çevirme
+disaster    olağanüstü durum
+disaster    yıkım
+disaster recovery   yıkım onarımı
+discard atmak
+discipline  öğreti
+disconnect  bağlantıyı kesmek
+discontinious   süreksiz
+discrete    ayrık
+discrimination  ayrım
+disk    disk
+disk array  disk dizisi
+disk drive  disk sürücü
+disk error  disk hatası
+diskette-only system    yalnız disketli sistem
+disk full   disk dolu
+disk mirroring, DASD mirroring  disk ikizleme
+disk operating system   disk işletim sistemi
+disk pack   değişir disk paketi
+disk space  disk alanı
+disk stripping  disklere bölüştürme
+disk unit   disk birimi
+disk volume disk birimi
+dispatch    dağıtmak
+dispersant  seyreltici
+displace    yerini değiştirmek
+displacement    uzaklık
+display görüntülemek
+display adaptor görüntü (birimi) sürücüsü
+display as printed  yazıldığı gibi görüntüle
+display card    görüntü (birimi) kartı
+display driver  görüntü (birimi) sürücüsü
+display memory  görüntü (birimi) belleği
+display monitor görüntü birimi
+display point   görüntü öğesi
+display screen  Görüntü ekranı
+display station görüntü (birimi) işistasyonu
+display (unit)  görüntü birimi
+display workstation görüntü (birimi) işistasyonu
+disposition kütük işleme durumu
+distance    uzaklık
+distortation    çarpıklık
+distribute  dağıtmak
+distributed dağıtımlı
+distributed data base   dağıtımlı veri tabanı
+distributed data processing dağıtımlı bilgi işlem
+distributed processing  dağıtımlı işlem
+distributed system  dağıtımlı sistem
+distribution list   dağıtım listesi
+distributor dağıtıcı
+dither  titremek
+divide  bölmek
+dividend    bölünen
+division    bölme işlemi
+division line (re: fractions)   kesir çizgisi
+Division Mark   Bölüm imi
+division (math) bölüm
+divisor bölen
+document    belge
+document    belgelemek
+documentation   belgeleme
+Document Contents Architecture  Belge İçerik Mimarisi
+document dictionary belge sözlüğü
+document format belge biçimi
+Document Interchange Architecture   Belge Değiştokuş Mimarisi
+document library    belge kitaplığı
+document management belge yönetimi
+document mode   belge kipi
+document name   belge adı
+document of understanding(DOU)  ortak anlayış belgesi
+document retrieval  belge erişim
+document template   belge örneği
+document window belge penceresi
+domain  etki alanı
+domain  tanım kümesi
+done    bitti
+DOS prompt  DOS komut istemi
+dot nokta
+dot pitch   nokta uzaklığı
+dots per inch   inç başına nokta sayısı
+dotted line noktalı çizgi
+dotted underline    noktalı altçizgi
+double  çift
+double-byte character set(DBCS) çift sekizli karakter kümesi
+double click    çift tıklatma
+double close quote  çift kapama tırnağı
+double-density disk çift yoğunluklu disk
+double open quote   çift açma tırnağı
+double precision    çift duyarlıklı
+double sided diskette   çift yüzlü disket
+double-sided pages  çift yüzlü sayfalar
+double-sided printing   çift yüzlü baskı
+double space    çift aralık (satır aralığı)
+double-spacing  çift aralık bırakma
+double underline    çift altçizgi
+doubleword  çiftsözcük
+down    aşağı
+down    bozuk
+down arrow  aşağı ok
+downline    uca doğru
+download    yüklemek
+downloadable fonts  yüklenir yazıyüzleri
+downsizing  küçültme
+downstream  aşağı akım
+downstream load yüklemek (aşağı)
+down time   bozuk kalma süresi
+draft   taslak
+draft mode  taslak kipi
+draft printing  taslak baskı
+draft quality   taslak niteliği
+drag    sürüklemek
+drag and drop   sürükle-bırak
+drag and drop   sürükleyip bırakmak
+drag select sürükleyerek seçmek
+drawer  çekmece
+drawing çizim
+drawing character   çizim karakteri
+drawing ruler   çizim cetveli
+draw (to)   çizmek
+drift   sapma
+drive   sürmek
+drive designator, drive designator  sürücü göstergesi
+drive letter    sürücü adı
+driver, drive   sürücü
+drop    bırakmak (fare)
+drop    iptal etmek
+drop-down   açılan
+drop-down list  açılan liste
+drop-down menu  açılan menü
+drop embed  katmayı iptal et
+drop Messages   iletileri iptal et
+drop point  bırakılan nokta
+dual    çift
+dual floppy system  çift disket sürücülü sistem
+dual processor  çift işlemci
+due date    son tarih
+dumb terminal   programlanmaz uçbirim
+dummy   kukla
+dummy device    kukla aygıt
+dummy variable  kukla değişken
+dump    dökmek
+duplex  çift yönlü
+duplicate   çoğaltmak
+duplication çoğaltma
+duplicator  çoğaltıcı
+duration    süre
+dynamic devingen
+dynamic address translation devingen adres dönüştürme
+Dynamic Data Exchange   Devingen Veri Alışverişi
+dynamic linking devingen bağlantı
+Dynamic Link Library    Devingen Bağlı Kitaplık
+dynamic priority    devingen öncelik
+dynamic programming devingen programlama
+dynamic resource allocation devingen kaynak ayırma
+dynamic storage allocation  devingen bellek ayırma
+echo    yankı
+edge    kenar
+edit    düzenlemek
+edition basım
+editor  düzenleyici
+effective   etkin
+effective   geçerli olan
+efficiency  verimlilik
+eject   çıkartmak
+elapsed time    geçen süre
+Electronic Cash Register    Elektronik Yazarkasa
+electronic mail elektronik posta
+element öğe
+eligible    seçilebilir
+ellipsis    üç nokta
+embed   gömmek
+embedded object gömülü nesne
+em-dash uzun çizgi
+emergency   ivedi durum
+emission    yayma
+emit    yaymak
+emphasize   vurgulamak
+empty   boş
+emulate öykünmek
+emulation   öykünüm
+emulation program   öykünüm programı
+emulator    öykünücü
+enable  seçilir kılmak
+enabled seçilir kılınmış
+encapsulation   sarma
+enclose kapsamak
+enclosure   kapsam
+encode  kodlamak
+encrypt şifrelemek
+end bitirmek
+en-dash orta çizgi
+End key Son tuşu
+end user    son kullanıcı
+energy  enerji
+engineering change  teknik değişiklik
+enhance geliştirmek
+enhanced    geliştirilmiş
+Enhanced Graphics Adapter   Gelişmiş Çizge Bağdaştırıcı
+enhanced keyboard   geliştirilmiş klavye
+enhanced mode   geliştirilmiş kip
+enlarge büyütmek
+enqueue kuyruğa koymak
+enter   girmek
+Enter key   Gir tuşu
+enterprise  kuruluş
+enterprise  şirket
+entity  varlık
+entry   giriş
+entry point giriş noktası
+envelope    zarf
+envelope    zarflamak
+envelope creation   zarf hazırlama
+envelope feeder zarf besleyici
+environment çevre
+environment variable    çevre değişkeni
+epilogue    sonsöz
+equalization    eşitleme
+equal sign  eşit imi
+equation    denklem
+equation editor denklem düzenleyici
+equipment   donatım
+equivalent  eşdeğer
+erasable programmable read-only memory  silinir programlanır salt oku bellek
+erase   silmek
+eraser  silgi
+ergonomics  ergonomi
+error   hata
+error handling  yanlışları işleme
+error log   hata günlüğü
+error Message   hata iletisi
+error recovery  hatadan kurtulma
+escape  kaçmak
+escape sequence kaçış tuşu dizisi
+escaping key    kaçış tuşu
+Esc key Esc tuşu
+Ethernet    Ethernet
+even    çift
+even number çift sayı
+event   olay
+event driven    olaya dayalı
+everyone    herkes
+evoke   çağırmak
+exception   kural dışı durum
+exception handling  kural dışı durum işleme
+exception message   kural dışı durum iletisi
+exchange (noun) değişim
+exchange (verb) değişmek
+exclude dışlamak
+exclusive or    dışlayan ya da
+executable  yürütülür
+execute yürütmek
+execution time  yürütme zamanı
+executive information system    üstyönetim bilişim sistemi
+exercise    alıştırma
+existing    varolan
+exit    çıkmak
+expand  genişletmek
+expanded    genişletilmiş
+expanded memory genişletilmiş bellek
+expansion board, expansion card genişletme kartı
+expansion gate feature  genişletme geçiti aksamı
+expansion slot  genişletme yuvası
+expert system   uzman sistem
+expiration date son kullanma tarihi
+explicit    belirtilmiş
+exploded pie    ayrılmış dilim
+exponent    üst
+exponential üstel
+export (noun)   dışarı aktarım
+export (verb)   dışarı aktarmak
+expression  anlatım
+expression(mat) deyim
+extend  genişletmek
+extend  uzatmak
+extended characters ek damgalar
+extended character set  genişletilmiş damga kümesi
+extended keyboard   genişletilmiş klavye
+extended memory uzatılmış bellek
+extension   uzantı (dosya adları)
+extension cord  uzatma kablosu
+extension (telephone)   iç hat
+external    dış
+externally described data   dışarda tanımlanan veri
+externally described file   dışarda tanımlanan kütük
+external modem  dış modem
+external storage    dış saklama birimi
+extract seçip çıkartmak
+extreme uçdeğer
+facility    olanak
+factor  katsayı
+factor  çarpan
+factor  etmen
+fail    başarısız olmak
+failure bozukluk
+FALSE   yanlış
+fast path key   kestirme yol tuşu
+fatal error onulmaz yanlış
+fault   aksaklık
+fault tolerant  aksaklığa dayanıklı
+fax faks göndermek
+faximile    faks
+feasibility olurluk
+feasibility study   olurluk incelemesi
+feature code    parça kodu
+feed    besleme
+feedback    geribildirim
+fetch   getirmek
+fiber optic optik lif
+field   alan
+field installable   yerinde kurulur
+figure  şekil
+figure caption  şekil açıklaması
+file    kütük
+fill    doldurma
+fill character  doldurma karakteri
+fill pattern    doldurma deseni
+filter  süzgeç
+filter  süzmek
+final   son
+find    bulma
+find and replace    bul ve değiştir
+firmware    bellenim
+fit uymak
+fit to page sayfaya sığdır
+fix düzeltmek
+fixed   değişmez
+fixed disk  sabit disk
+fixed point sabit noktalı
+fixed spaced font   değişmez aralıklı yazıyüzü
+fix level   düzeltme düzeyi
+flag (noun) bayrak
+flag (verb) bayrak kaldırma
+flash   yanıp sönmek
+flexible    esnek
+flexible disk, floppy, floppy disk, diskette    disket
+flicker titrek ışıltı
+flip    çevirme
+flip-flop   ikidurumlu
+floating    kayan
+floating-point  kayan noktalı
+floppy disk drive   disket sürücü
+flow    akış
+flow    akmak
+flow chart  akış çizimi
+fluid   akışkan
+flush   yaslamak
+flush (buffer etc.) temizlemek
+flush left  sola yaslamak
+flush Right sağa yaslamak
+folder  kap
+folio   yaprak
+font    yazıyüzü
+foot    ayak
+footer  sayfa altlığı
+footing altlık
+footnote    dipnot
+footprint   kapladığı alan
+force   zorlamak
+force start zorlamalı başlatma
+forecast    kestirim
+forecast    kestirmek
+foreground  önalan
+form    biçim
+form    form
+format  biçim
+format  biçimlemek
+form feed   form besleme
+formula ilinti
+forward iletmek
+forward ileri(ye)
+fraction    üleşke
+fragment    parçalanmak
+frame   çerçeve
+frame   kare (film karesi)
+free    boş
+freehand    serbest el
+free memory boş bellek
+freeze(to)  dondurmak
+frequency   sıklık
+friction    sürtünme
+front end   ön uç
+full    dolu
+full    tüm
+full duplex çift yönlü
+full path   tüm yol
+full pathname   tüm yol adı
+full resolution tüm çözünürlük
+full screen tüm ekran
+full screen editing tüm ekranda düzenleme
+fullword    tümsözcük
+function    işlev
+functional  işlevsel
+function key    işlev tuşu
+fuse    sigorta
+gallery sergi
+gap aralık
+gap analysis    ayrım çözümleme
+garbage anlamsız veri
+gate    geçit
+gateway ağ geçidi
+gather  toplamak
+general genel
+generate    üretmek
+generation  kuşak
+generator   üreteç
+generic soysal
+generic search  soysal arama
+get almak
+global  genel
+glossary    terimler sözlüğü
+go-ahead    ilerlemek
+go to   git
+grab(to)    kavramak
+gradation   geçişme, dereceleme
+grade   derece
+grammar dil bilgisi
+graph   çizge
+graphic çizge
+graphic çizgesel
+graphical   çizgesel
+graphics    çizgeleme
+gray level  gri düzeyi
+gray scale  gri ölçeği
+grid    ızgara
+gridlines   ızgara çizgileri
+grounding   topraklama
+guest   konuk
+guidance    yol gösterme
+guide   kılavuz
+guideline   yönerge
+gutter  cilt payı
+half-duplex yarı çift yönlü
+halfword    yarımsözcük
+halt    durmak
+handle  tanıtıcı (değer)
+handler işleyici
+handling    işleme
+handshake   anlaşma
+handwriting support elyazısı desteği
+hanging indent  asılı girinti
+hard card   disk kartı
+hard copy   basılı kopya
+hard disk   disk
+hard hyphen istenen kısa çizgi
+hard page break istenen sayfa sonu
+hard sector fiziksel kesim
+hard space  istenen boşluk
+hard stop   anında durdurmak
+hardware    donanım
+hardware check  donanım aksaklığı
+hardware requirements   donanım gereksinimleri
+hardwired   fiziksel bağlantılı
+head    kafa
+head crash  kafa arızası
+header  sayfa başlığı
+header label    önetiket
+heading başlık
+headphone   kulaklık
+headphone jack  kulaklık çıkışı
+heat    ısı
+heat sink   ısı alıcı
+height  yükseklik
+help    yardım
+help desk   yardım masası
+help for HELP   yardım kullanımı
+help index  yardım dizini
+heterogeneous computer network  türdeş olmayan bilgisayarlar ağı
+heuristic   buluşsal
+heuristics  buluşsal yöntemler
+hexadecimal numbering system    onaltılı sayı sistemi
+hidden  gizli
+hidden file gizli kütük
+hide    gizlemek
+hierarchical    sıradüzensel
+hierarchy   sıradüzen
+high    yüksek
+high density    yüksek yoğunluklu
+high end    üst uç
+high-level language üst düzey dil
+highlight (to)  vurgulamak
+high performance file system    yüksek başarımlı kütük sistemi
+high resolution yüksek çözünürlük
+highway anayol
+hint    ipucu
+history file    geçmiş kütüğü
+history log geçmiş günlüğü
+hold    tutmak
+hold down (re:mouse button or key)  basılı tutmak
+hole    delik
+home directory  ana dizin
+homogeneous computer network    türdeş bilgisayarlar ağı
+horizontal  yatay
+host computer   anasistem
+hot key geçiş tuşu
+hotline yardım hattı
+hot link    sıcak bağ
+hour glass  kum saati
+housekeeping    toparlama
+hub göbek
+hue renk özü
+hypertext   yardımlı metin
+hyphen  kısa çizgi
+hyphenate   sözcük bölmek
+ID number   kimlik numarası
+I/O G/Ç (bkz. Giriş/Çıkış)
+icon    simge
+identical, same özdeş
+identification  kimlik
+identifier  tanıtıcı
+identity    kimlik
+identity    özdeşlik
+idle    boş duran
+idle loop   işlevsiz döngü
+ignore  yoksaymak
+illegal geçersiz
+image   görüntü
+image processing    görüntü işlem
+imaginary   sanal
+immediate data  anlık veri
+impact  vuruş
+impact printer  vuruşlu yazıcı
+impedance   özdirenç
+imperative  zorunlu
+implement(to)   gerçekleştirmek
+implicit    örtülü
+implied örtük
+important   önemli
+import (noun)   içeri aktarım
+import (verb)   içeri aktarmak
+improved    iyileştirilmiş
+inactive    etkin olmayan
+in-basket   gelen sepeti
+inbound gelen
+inbox   gelen kutusu
+inch    parmak
+include içermek
+inclusive   içeren
+incoming    gelen
+increase    artırmak
+increment   artırma
+increment   artma miktarı
+incremental backup  artımlı yedekleme
+indent  girinti
+indent  girintili yazmak
+indentation girintili yazma
+indented    girintili yazılmış
+indented list   girintili liste
+indented paragraph  girintili paragraf
+independent bağımsız
+index   dizin
+indicate    göstermek
+indicator   gösterge
+indirect    dolaylı
+indirect ddress dolaylı adres
+indoor  yapı içi
+inference   çıkarsama
+infinite    sonsuz
+info    bilgi
+informatics bilişim
+information bilgi
+informational database  bilgilendirici veri tabanı
+information frame   bilgi iletim birimi
+information service bilişim hizmeti
+information technology  bilişim teknolojisi
+infrared    kızılötesi
+inherent    içsel
+inherit kalıt almak
+inheritance kalıt
+initial başlangıç
+initial ilk
+initialize  sıfırlamak
+initialize  başlangıç durumuna getirmek
+initialize  ilklendirmek
+initials    baş harfler (bir ismin)
+initiate    başlatmak
+ink jet printer mürekkep püskürtmeli yazıcı
+inoperable time işletim dışı süre
+input   giriş
+input   girdi
+input device    giriş aygıtı
+input/output    giriş/çıkış
+inquiry sorgu
+insert  araya eklemek
+insert (disket) takmak (disket)
+insertion point ekleme noktası (araya)
+inside  iç
+install kurmak
+install yüklemek
+installation    kuruluş
+instruction komut
+instruction yönerge
+instruction set komut kümesi
+instrument  araç
+insufficient    yetersiz
+integer tamsayı
+integrate   tümlemek
+integrated  tümleşik
+integrated circuit  tümleşik devre
+integrated modem    yerleşik modem
+integrity   bütünlük
+intelligent terminal    programlanır uçbirim
+intensity   yoğunluk
+interaction etkileşim
+interactive etkileşimli
+intercept   kesişmek
+interchange değişim (arasında)
+interface   arabirim
+interference    girişim
+intermediate    orta
+intermediate    ara
+internal    iç
+interoperability    birlikte işlerlik
+interpret   yorumlamak
+interpreter yorumlayıcı
+interprocess    süreçler arası
+interrupt   kesmek
+interrupt   kesme
+interrupt handler   kesme işleyici
+interrupt switch    kesme anahtarı
+intersection    arakesit
+intersection    kesişim
+intersystem communication   sistemler arası iletişim
+interval    aralık
+intervention    araya girme
+intervention required check işlem gerektiren hata
+intrasystem communication   sistem içi iletişim
+intrinsic   iç
+introduction    giriş
+in use light    kullanımda ışığı
+invalid geçersiz
+inventory   stok
+inverse, reverse    ters
+invert  evirme
+invisible   görünmeyen
+invoke  çağırmak
+irrational number   oransız sayı
+irrecoverable error kurtarılamaz hata
+isolate yalıtmak
+issue   sorun
+issue   yayın
+issue a command komut vermek
+italic  italik
+item    öğe
+iterate yinelemek
+iteration   yineleme
+jack    fiş
+jam sıkışmak
+job iş
+job description iş tanımlaması
+join    birleştirmek
+joint   birleşik
+journal günlük
+joy stick   oyun çubuğu
+juke box    optik disk kutusu
+jump    atlamak
+junction    kavşak
+justification   gerekçeleme
+justification   yaslama
+justify yaslamak
+kern    karakter çiftlerini sıkıştırmak
+key anahtar
+key tuş
+keyboard    klavye
+keyed sequential access anahtar sıralı erişim
+key pad tuş takımı
+keystroke   tuşa basmak
+keyword anahtar sözcük
+kilobyte(KB)    kilobyte(KB)
+know-how    yapabilme bilgisi
+knowledge based system  bilgi tabanlı sistem
+knowledge system    bilgi tabanlı sistem
+label   etiket
+lag gecikme
+landscape (page orientation)    yatay
+language    dil
+laptop computer dizüstü bilgisayar
+laser printer   lazer yazıcı
+lasso   kement
+last    son
+latch   mandal
+latency gecikme süresi
+launch (to) başlatmak
+layer   katman
+layout  yerleşim
+leader  öncü
+leader character (tab)  iz karakteri (sekme)
+leading characters  önce gelen karakterler
+leading zero    öndeki sıfır
+leased line kiralanmış hat
+least significant digit en sağdaki basamak
+left adjust sola yaslamak
+left aligned    sola yaslanmış
+left alignment  sola yaslama
+left justify    sola yaslamak
+Legal   Legal (özel kağıt boyutu:8.5inçx14inç)
+legal file name geçerli kütük adı
+legend  gösterge
+legend  açıklamalar
+length  uzunluk
+letter  harf
+letter  Letter (özel kağıt boyutu:?inçx?inç)
+letter  mektup
+Letterhead  antet
+letter quality  mektup niteliği
+level   düzey
+lever   kol
+library kitaplık
+license lisans
+license agreement   lisans anlaşması
+licensed program    lisanslı program
+life cycle  yaşam döngüsü
+light   ışık
+light pen   ışık kalemi
+limit   sınır
+line    çizgi
+line    geçek
+line    hat
+line    satır
+linear  doğrusal
+line feed   satır besleme
+line printer    satır yazıcı
+line spacing    satır aralığı
+lines per inch  satır/inç
+line weight çizgi kalınlığı
+link    bağlamak
+link    bağlantı
+link    bağ
+linkage bağlantı
+liquid crystal display  sıvı kristal görüntü birimi
+list    liste
+list    listelemek
+literal hazır bilgi
+live    canlı
+loader  yükleyici
+local   yerel
+Local Area Network  yerel ağ
+locate  yerini belirlemek
+location    yer
+lock    kilit
+lock    kilitlemek
+log günlük
+log günlük tutmak
+log file    günlük kütüğü
+logic   mantık
+logic board mantıksal çevrim kartı
+log in, login, log on, logon    oturum açmak
+logo    logo
+log off, log out    oturum kapamak
+long dash   me çizgi
+lookup  arama
+loop    döngü
+loosely coupled gevşek bağlı
+low düşük
+low density düşük yoğunluklu
+low end alt uç
+lowercase   küçük harf
+low-level language  alt düzey dil
+machine makine
+machine check   makine arızası
+machine code    makine kodu
+machine language    makine dili
+macro   makro
+macroprocessor  makroişlemci
+magenta macenta
+magnetic    manyetik
+magnification   büyütme
+magnifier   büyüteç
+magnify büyütmek
+mail    posta
+mail    postalamak
+mailing address posta adresi
+mailing labels  posta etiketleri
+mail merge  adres mektup birleştirme
+main    ana
+mainboard   ana çevrim kartı
+mainboard   ana kart
+mainframe   anabilgisayar
+main memory ana bellek
+main storage    ana bellek
+maintenance bakım
+major   ana
+major   büyük
+majority    çoğunluk
+malfunction arıza
+management  yönetim
+management information system   yönetim bilişim sistemi
+manager yönetmen
+mandatory   zorunlu
+manipulate(to)  işlemek
+manual  el ile
+manual  elkitabı
+manual feed elle besleme
+manual pagebreak    istenen sayfa sonu
+map eşlem
+map eşlemek
+map harita
+margin  kenar boşluğu
+mark    im
+mark    imlemek
+marker  im
+marker  imleyici
+markup language biçimleme dili
+marquee kayar noktalı çerçeve
+mask    maskelemek
+mass    yığın
+mass storage    yığın bellek
+master  ana
+master copy ana kopya
+match   eşleştirmek
+match case  büyük küçük harfe duyarlı
+math coprocessor    matematik (yardımcı) işlemci(si)
+matrix  dizey
+matrix printer, dot matrix printer  iğneli yazıcı
+maximize    ekranı kaplamak
+maximize    enbüyütme
+maximum en büyük
+maximum en çok
+maximum en yüksek
+mean    ortalama
+measurement ölçüm
+mechanism   düzenek
+media   ortam
+media   araçlar
+medialess   ortamsız
+medium  orta
+medium  ortam
+megabyte (measurement unit) megabyte, MB
+megahertz   megahertz
+member  üye
+membrane    zar
+membrane keyboard   dokunma duyarlı klavye
+memo    kısa not
+memory  bellek
+memory bank bellek yuvası
+menu    menü
+menu bar    menü çubuğu
+menu driven menülerle çalıştırılan
+menu item   menü öğesi
+menu title  menü başlığı
+merge   birleştirmek
+message ileti
+message handler ileti işleyici
+method  yöntem
+methodology yöntem
+methodology yöntembilim
+Micro Channel Architecture  Mikro Kanal Mimarisi
+microcomputer   mikrobilgisayar
+microprocessor  mikroişlemci
+microwave   mikrodalga
+migrate geçmek
+migrate geçirmek
+milestone   aşama
+minicomputer    minibilgisayar
+minimize    enküçültme
+minimize    simge durumuna küçültmek
+minimum en az
+minimum en düşük
+minimum en küçük
+minor   önemsiz
+minor   küçük
+minus   eksi
+mirror image    ikiz görüntü
+mirroring   ikizleme
+mirror printing ters baskı
+missing atlanmış
+missing eksik
+misspelling yazım hatası
+mixed   karma
+mixed chart karma çizim
+mnemonic    anımsatıcı
+mode    kip
+model   model
+modem   modem
+modification    değişiklik
+modification level  değişiklik düzeyi
+modify  değiştirmek
+modular birimsel
+modular programming birimsel programlama
+modulate    kiplemek
+modulation  kipleme
+modulator   kipleyici
+module  birim
+monitor görüntü birimi
+monitor izlemek
+mono    tek
+monochrome  tekrenkli
+monospaced font eşaralıklı yazıyüzü
+most significant digit  en soldaki basamak
+mount   bağlamak
+mount   takmak
+mouse   fare
+mouse button    fare düğmesi
+mouse pad   fare altlığı
+mouse pointer   fare imleci
+move    taşımak
+movie   film
+multimedia  çoklu ortam
+multinational character set çok uluslu karakter kümesi
+multiple    çoklu
+multiple inheritance    çoktan türeme
+multiplex   çoklamak
+multiplexer çoklayıcı
+multiplexing    çoklama
+multiplicand    çarpılan
+multiplier  çarpan
+multiply    çarpmak
+multiprocessing çoklu işlem
+multiprogramming    çoklu programlama
+multitasking    çokgörevli
+multitasking    çoklu görev
+multithreading  çoklu kullanım
+multiuser   çok kullanıcılı
+Musical Instruments Digital Interface   Müzik Gereçleri Sayısal Arabirimi
+mutual  karşılıklı
+mutually exclusive  birbirini dışlayan
+name    ad
+naming convention   adlandırma kuralları
+national    ulusal
+national language character set ulusal dil karakter kümesi
+national language support   ulusal dil desteği
+native  yerel
+native language anadil
+natural doğal
+navigation  dolaşma
+near-letter quality mektup niteliğine yakın
+negate  olumsuzlamak
+negative    eksi
+negative indentation    ters girinti
+nest    yuva
+nest    yuvalamak
+network ağ
+network administration  ağ yönetimi
+network administrator   ağ yöneticisi
+networking  ağ oluşturma
+network management  ağ yönetimi
+network manager ağ yöneticisi
+network topology    ağ topolojisi (ilingesi)
+new yeni
+new line    yeni satır
+next    sonraki
+nibble (measurement unit)   yarım byte
+nickname    takma ad
+node    düğüm
+node id düğüm tanıtıcısı
+noise   gürültü
+non-breaking hyphen bölünemez kısa çizgi
+non-breaking space  bölünemez boşluk
+nonbreak space  bölünemez boşluk
+nondisplay  görüntülenmez
+none    hiçbiri
+nonescaping key, dead key   konum atlatmayan tuş
+nonimpact   vuruşsuz
+non-linear  doğrusal olmayan
+non-printing characters basılamaz karakterler
+nonresident yerleşik olmayan
+nonswitched line    aktarmasız hat
+nonuniform  birörnek olmayan
+nonvolatile kalıcı
+normal  olağan
+notation    gösterim
+notch   çentik
+note    not
+notebook computer   defter bilgisayar
+notice  bildirmek
+notice (n)  bildirim
+notify  bildirmek
+nucleus çekirdek
+null    boş
+null    anlamsız
+null character  sıfır (onaltılı sayı sisteminde)
+null modem  kukla modem
+null set    boş küme
+number  sayı
+numeral sayıt
+numerator (re: fractions)   pay (re:kesirler)
+numeric sayısal
+numeric(al) sayısal
+numeric keypad  sayısal tuş takımı
+object  nesne
+object-based    nesne tabanlı
+object code amaç program
+Object Linking and Embedding    Nesne Bağlama ve Katıştırma
+object oriented nesneye dayalı
+object-oriented analysis    nesneye dayalı çözümleme
+object-oriented design  nesneye dayalı tasarım
+object-oriented programming nesneye dayalı programlama
+object-oriented testing nesneye dayalı sınama
+object program  amaç program
+octal numbering system  sekizli sayı sistemi
+odd tek
+off kapalı
+office  ofis
+office automation   ofis özdevinimi
+off-line, offline   çevrimdışı
+offset  göreli konum
+offset  ofset (baskı)
+OK  Tamam
+omit    atlamak
+on  açık
+on-board    yerleşik
+on-line help    çevrimiçi yardım
+on-line, online çevrimiçi
+on site yerinde
+on the fly  anında
+opacity ışık geçirmezlik
+open    açmak
+open    açık
+Open Architecture   Açık Mimari
+open media framework    açık ortam çerçevesi
+open system açık sistem
+open systems architecture   açık sistemler mimarisi
+Open Systems Interconnection    Açık Sistemler Bağlantısı
+Open Systems Interconnection Architecture   Açık Sistemler Bağlantısı Mimarisi
+operand işlenen
+operate işletmek
+operating system    işletim sistemi
+operation   işlem
+operator    işleç
+operator    işletmen
+opposite    karşıt
+optical optik
+optical character recognition   optik karakter tanıma
+optical disk    optik disk
+optical disk platter    optik disk tablası
+optical fiber   optik lif
+optimization    eniyileme
+optimum en iyi
+option  seçenek
+optional    seçimli
+Or  Ya da
+order   düzenlemek
+order   komut
+order (n)   sipariş
+organize    düzenlemek
+orientation yönlendirmek
+origin  başlangıç
+origin  köken
+original    özgün
+orphan control  yalnız ilk satır
+orphan line artık satır
+oscillate (v)   salınmak
+oscillation (n) salınım
+out-basket  giden sepeti
+outbox  giden kutusu
+outdoor yapı dışı
+outgoing    giden
+outlet  çıkış noktası
+outline çerçeve
+outline ana çizgiler
+outlined font   dış çizgili yazıyüzü
+outline (font)  dış çizgi
+outlook görünüm
+out-of-memory   yetersiz bellek
+output  çıktı
+output  çıkış
+output device   çıkış aygıtı
+output file çıkış kütüğü
+Output Mode Çıktı Kipi
+output queue    çıktı kuyruğu
+output tray çıkış tepsisi
+Outside Margin  Dış Kenar Boşluğu
+overflow    taşma
+overhead    ek yük
+overhead projector  tepegöz
+overlap örtüşmek
+overlay yerpaylaşmak
+Overlay Chart   Yardımcı Grafik...
+overlay program yerpaylaşan program
+override    geçersiz kılmak (eskisini)
+overstrike, strike over üstüne basmak
+overview    gözden geçirmek
+overwrite   üstüne yazmak
+owner   sahip
+Owners Guide    Kullanıcı Kılavuzu
+pace    ilerleme hızı
+pacing  hız denetimi
+pack    sıkıştırmak
+pack    paketlemek
+package paket
+packed field    paketlenmiş alan
+packet switching network    paket anahtarlamalı ağ
+pad doldurmak
+paddle  denetim kolu
+page    sayfa
+page break  sayfa sonu
+Paged Memory Management Unit    Sayfalanmış Bellek Yönetimi Birimi
+page down   sonraki sayfa
+page layout sayfa düzeni
+page number sayfa numarası
+page printer    sayfa yazıcı
+Page Setup  Sayfa Düzeni
+page up önceki sayfa
+paginate    sayfalandırmak
+paging  sayfalama
+paint   boyamak
+paint box   boya kutusu
+paired  eşli
+palette palet
+palmtop computer    avuçiçi bilgisayar
+Pane    pencere gözü
+panel   pano
+panel   panel
+panning gezdirme
+Paper   Kağıt
+paper guide kağıt kılavuzu
+paper jam   kağıt sıkışması
+paper registration  kağıt ayarlama
+paper release   kağıdı bırakma
+paragraph   paragraf
+Paragraph Mark  Paragraf İmi
+parallel    koşut
+parameter   değiştirge
+Parent directory    üst dizin
+parent element  üstöğe
+parenthesis ayraç
+parity  eşlik
+parity bit  eşlik biti
+parse   ayrıştırmak
+partial bölümsel
+partial kısmi
+partition   bölümlemek
+partner ortak
+pass    geçmek
+passive edilgen
+pass-through    düzgeçiş
+password    parola
+paste   yapıştırmak
+patch   yamamak
+path    yol
+pattern desen
+pattern örüntü
+pause   duraklamak
+peak    doruk
+peer    eş
+peer to peer    eşler arası
+pending beklemede
+penetration yaygınlık
+percent yüzde
+perforated  delikli
+perform gerçekleştirmek
+performance başarım
+period  nokta
+period  dönem
+peripheral  çevrebirimi
+peripheral  çevresel
+permanent   kalıcı
+permit  izin
+personal computer   kişisel bilgisayar
+phase   evre
+photoconductor  fotoiletken
+photorealism    fotogerçekçilik
+photorealistic  fotogerçekçi
+phrase  tümcecik
+physical    fiziksel
+pica    pika
+picker  seçici
+picker  toplayıcı
+picture görüntü
+picture resim
+picture element görüntü öğesi
+pie chart   dairesel çizim
+pin bacak
+pin iğne
+pipeline    ardışık düzen
+piping(dos) yöneltme
+piracy  korsanlık
+pitch   karakter sıklığı
+place holder    yer tutucu
+Plain text  düz metin
+platform    düzlem
+plot    çizmek
+plotter çizici
+plug    fiş
+plug and go tak ve kullan
+plug and play   tak ve kullan
+plug-compatible tümüyle uyumlu
+plug-in (software)  uyumlu ek (yazılım)
+plural  çoğul
+plus sign   artı imi
+PM (12 saatlik zaman biçimi)    ÖS (Öğleden Sonra)
+pocket  cep
+Pocket guide(booklet)   Cep kılavuzu
+point   göstermek
+point   nokta
+pointer gösterge
+pointer imleç
+point (measure) punto
+Point Of Sale   satış noktası
+polar   kutuplu
+polar   kutupsal
+polarize    kutuplamak
+poll    yoklamak
+pool    havuz
+pop up menu açılır menü
+pop up message  beliren ileti
+pop up window   beliren pencere
+port    kapı
+portability taşınırlık
+portable computer   taşınır bilgisayar
+portrait (page orientation) düşey
+position    konum
+Positioning Konumlandırma
+positive    artı
+positive    olumlu
+posterization   gri sayısını azaltma
+postmortem  işlem sonrası
+postpone    ertelemek
+PostScript_ PostScript_
+power   güç
+power cord  güç kablosu
+power light güç ışığı
+power off   kapamak
+power on    açmak
+power-on indicator  açık göstergesi
+Power On Self Test  otomatik sınama
+power socket    priz
+powers (re: math function)  üst
+power strip anahtarlı uzatma kablosu
+power supply    güç kaynağı
+power switch    güç anahtarı
+power typing    serbest yazma
+pragmatics  kullanımbilim
+pre-    ön-
+precedence  öncelik
+precision   duyarlık
+precompile  ön derleme
+predefine   önceden tanımlamak
+predict öngörmek
+preface önsöz
+Preferences Yeğlenenler
+preliminary checklist   ön denetim listesi
+preparation hazırlık
+prepress    baskı öncesi
+preprocessor    önişlemci
+preselected choice  vurgulu seçenek
+presentation    gösteriliş
+presentation    sunu
+presentation manager    Sunu Yöneticisi
+preset  önceden belirlenmiş
+press   basmak
+Preview Önizleme
+Previous    Önceki
+price   eder
+primary birincil
+prime number    asal sayı
+primitive object    ilkel nesne
+print   yazmak
+print   yazdırmak
+printer yazıcı
+printer driver  yazıcı sürücüsü
+Printer Settings    Yazıcı ayarları
+Printer Setup   Yazıcı ayarları
+printer writer  yazdırma programı
+print head  yazıcı kafası
+Print Manager   Yazdırma Yöneticisi
+Print Merge Birleştirerek Yazdırma
+printout    çıktı (yazılı)
+print queue yazıcı kuyruğu
+Print Screen key    Ekran Yaz tuşu
+print server    yazdırma sunucusu
+print spooler   yazdırma kuyruklayıcısı
+print wheel yazdırma çarkı
+priority    öncelik
+privacy kişisel gizlilik
+privacy lock    erişim kilidi
+privilege   ayrıcalık
+problem sorun
+problem-oriented language   sorun yönelimli dil
+procedural language yordamsal dil
+procedure   yordam
+procedure-oriented language yordam yönelimli dil
+process işlem
+process süreç
+process control süreç denetimi
+processing  işlem
+processing  işleme
+processor   işlemci
+processor unit  işlem birimi
+production  üretim
+productive  üretken
+productivity    üretkenlik
+profile belgi
+program program
+program programlamak
+program-described data  programda tanımlanan veri
+program-described file  programda tanımlanan kütük
+program generator   program üreteci
+Program linking Program bağlama
+programmable read-only memory   programlanır salt okunur bellek
+Program Manager Program Yöneticisi
+program temporary fix   geçici program düzeltmesi
+progressive aşamalı
+project proje
+project tasarı
+projection  izdüşüm
+prologue    öndeyiş
+promote(to) yükseltmek
+prompt  bilgi istemi
+prompt  istemde bulunmak
+Proofing a document Belge doğruluğunu sağlamak
+propagation yayılma
+properties  özellikler
+proportional    orantılı
+proportional font   orantılı yazıyüzü
+protect korumak
+protocol    iletişim kuralları
+prototype   ön ürün
+pseudo- sözde-
+public  genel
+public  kamu
+publication yayın
+publish yayınlamak
+Publisher   Yayıncı
+publishing  yayıncılık
+pull down menu  çekme menü
+pulse   vurum
+punch   delgi
+punctuation noktalama
+purge   temizlemek
+purpose amaç
+pushbutton dialing  tuşlu çevirme
+Puzzle  Çözmece
+quad    dörtlü
+quadrant    dörtlük
+qualifier   niteleyici
+qualify nitelemek
+quality nitelik
+Quality Assurance   Nitelik Güvencesi
+Quality Control Nitelik Denetimi
+quantify    nicelemek
+quantity    miktar
+quantity    nicelik
+query   sorgu
+queue   kuyruk
+Queued Printing kuyruklanmış yazdırma
+quick   hızlı
+quiesce susturmak
+quiet   sessiz
+quit    bitirmek
+quotation mark  tırnak imi
+quotient    bölüm
+rack    raf
+rack-mounted    raf yapısında
+radiation   ışıma
+radio button    radyo düğmesi
+ragged edge düzensiz kenar
+raise (to)  yükseltmek
+random  rasgele
+random access   rasgele erişim
+random-access memory(RAM)   rasgele erişimli bellek
+range   erim
+raster  ızgara
+raster scan ızgara tarama
+rate    hız
+rate, ratio oran
+rational number oranlı sayı
+raw ham
+re- yeniden
+read    okumak
+Read Only   salt okunur
+Read Only Memory    Salt Okunur Bellek
+ready   hazır
+real    gerçek
+real number gerçek sayı
+rearrange   yeniden düzenlemek
+Reassign    Yeniden atamak
+reboot  sistemi yeniden yüklemek
+recall  geri çağırmak
+receipt alındı
+receive almak
+receiver    alıcı
+recent  en son
+receptacle  yuva
+recognition tanıma
+record (noun)   tutanak
+record (verb)   tutanak yazmak
+recover kurtarmak
+recoverable kurtarılır
+recovery    kurtarma
+recursion   özyineleme
+recursive   özyineli
+recycle yeniden çevrime sokmak
+reduce  küçültmek
+Reduced Instruction Set Computer    İndirgenmiş Komut Takımı Bilgisayarı
+redundancy  artıklık
+redundancy check    artıklık denetimi
+reel    makara
+reengineering   yeniden yapılama
+refer   bakmak
+refer   başvurmak
+reference   başvuru
+reference   ilgi
+reflect yansıtmak
+refresh yenilemek
+refresh rate    yenileme hızı
+regenerate  yeniden üretmek
+region  bölge
+register    yazmak
+register    yazmaç
+registered trademark    tescilli ticari marka
+reiterate   yinelemek
+reject  geri çevirmek
+relation    ilişki
+relational  ilişkisel
+relational database ilişkisel veritabanı
+relational operator ilişkisel işleç
+relative    göreli
+relay   anahtarlamak
+release bırakmak (özgür)
+release yayım
+reliability güvenilirlik
+relocate    yerdeğiştirmek
+remainder   kalan
+remark  açıklama
+reminder    anımsatıcı
+remote  uzak
+remote job entry    uzaktan iş girişi
+remote power off    uzaktan kapama
+remote power on uzaktan açma
+remove  çıkarmak
+remove  kaldırmak
+Rename  yeniden adlandırmak
+reorder yeniden düzenlemek
+repaginate  yeniden sayfalamak
+repair  onarım
+repeat  yinelemek
+repeater    yineleyici
+replace yerine koymak
+replace mode    üstüne yazma kipi(sözcük işlem)
+reply, response yanıt
+report  rapor
+repository  havuz
+representation  gösterim
+request istek
+required hyphen istenen kısa çizgi
+required pagebreak  istenen sayfa sonu
+required parameter  gereken değiştirge
+requirement gereksinim
+requirement specification   gereksinim belirtimleri
+reseller, dealer    satıcı
+reserve ayırmak
+reserved word   özel amaçlı sözcük
+reset   sıfırlamak
+reset   ilk duruma getirmek
+resident    yerleşik
+Resize  Yeniden Boyutlandırmak
+resolution  çözünürlük
+resolve çözmek
+resource, source    kaynak
+response time   yanıt süresi
+restart yeniden başlatmak
+restore geri yüklemek
+restore button  önceki boyuta getirme düğmesi
+restrict    sınırlamak
+result  sonuç
+resume  sürdür
+retail  perakende
+retention period    saklama süresi
+retrieve    erişmek
+retry   yeniden denemek
+return  dönmek
+return code dönüş kodu
+reusable    yeniden kullanılır
+reverse engineering tersine mühendislik
+reverse image   ters görüntü
+reverse video   ters görüntü
+revert  dönmek
+review  gözden geçirmek
+Revisable-Form Text Değiştirilebilir Biçimli Metin
+revise  gözden geçirmek
+revision bar    değişiklik çubuğu
+revision symbol değişiklik simgesi
+rewind  geri sarmak
+ribbon  şerit
+Rich Text Format    zengin metin biçimi
+right adjust    sağa ayarlamak
+right align sağa yaslamak
+Right alignment Sağa yaslama
+Right indent    Sağdan girinti
+right justify   sağa yaslamak
+rise    yükselmek
+risk assesment  risk değerlendirmesi
+Roadmap Yol haritası
+robot   robot
+robotics    robotbilim
+Roman numerals  Roma sayıları
+root directory  kök dizin
+Rotate  Döndürmek
+round   yuvarlamak
+router  yöneltici
+routine yordam
+row dizeç
+royalty telif hakkı
+rule    kural
+ruler   cetvel
+run çalıştırmak
+running foot(ing)   yinelenen altlık
+running heading yinelenen başlık
+run-time environment    çalıştırma ortamı
+run-time module çalıştırma birimi
+run-time version    çalıştırma sürümü
+sample, example örnek
+Sampler Örnekleyici
+sampling    örnekleme
+satellite   uydu
+saturation  doyma
+save    saklamak
+save as yeni adla saklamak
+scalability ölçeklenirlik
+scalar  sayıl
+scale (n)   ölçek
+scale (v)   ölçeklemek
+scaling ölçekleme
+scaling factor  ölçekleme katsayısı
+scan    taramak
+scanner tarayıcı
+Scatter Serpme
+schedule    zaman çizelgesi
+scheduling  zamanlama
+scope   kapsam
+scrap file  karalama kütüğü
+Scratch File    Geçici kütük
+screen  ekran
+Screen Saver    Ekran Koruyucu
+screen shot ekran resmi
+script  betik
+scroll  kaydırmak
+scroll bar  kaydırma çubuğu
+scroll box  kaydırma kutusu
+scroll by the windowful pencere dolusu kaydır
+search  aramak
+search and replace  bul ve değiştir
+Search direction    Arama yönü
+search path arama yolu
+search word aranan sözcük
+secondary   ikincil
+section bölüm
+Section break   Bölüm sonu
+Section Heading Bölüm Başlığı
+Section Mark    Bölüm imi
+Section Property    Bölüm Özelliği
+Section Start   Bölüm Başlangıcı
+Section Title   Bölüm Başlığı
+sector  kesim
+security    güvenlik
+security violation  güvenliği bozma
+seek    aramak
+segment kesim
+segmentation    kesimleme
+seize   ele geçirmek
+select  seçmek
+Select All  Tümünü Seç
+selected    seçilmiş
+selection   seçim
+selective   seçmeli
+self check  öz sağlama
+Self explanatory    öz açıklamalı
+self service machine    öz hizmet makinesi
+self test   öz sınama
+semantics   anlambilim
+semi-   yarı
+semiconductor   yarıiletken
+Seminar Seminer
+send    göndermek
+Send to back    arkaya göndermek
+sense   algılamak
+sensitivity duyarlık
+sensor  algılayıcı
+sentence    tümce
+separate    ayırmak
+separate    ayrı
+separator   ayırıcı
+sequence    sıra
+sequencer   ardışımlayıcı
+sequential  sıralı
+sequential access   ardışık erişim
+serial  dizisel
+Serial communication    dizisel iletişim
+serial data dizisel veri
+serial device   dizisel aygıt
+Serial Driver   dizisel sürücü
+Serial interface    dizisel arabirim
+serial mouse    dizisel bağlantılı fare
+serial number   dizisel numara
+serial port dizisel kapı
+serial printer  dizisel yazıcı
+serial processing   dizisel işlem
+Series  dizi
+server  sunucu
+service hizmet
+service mode    bakım kipi
+session oturum
+set küme
+set takım
+setting ayar
+setup   düzenek
+set up  kurmak
+setup (v)   hazırlamak
+set (v) belirlemek
+severity    önem
+severity code   önem kodu
+shade   gölgelendirmek
+Shaded  Gölgeli
+shader  gölgelendirici
+shading gölgelendirme
+shadow  gölge
+shadowing   gölgeleme
+shape   şekil
+share   paylaşmak
+shear   kaykılma
+sheet   yaprak
+Sheet-feed  yaprak besleme
+shelf   sergen
+shelf life  sergen yaşam süresi
+shell   kabuk
+shift   ötelemek (kaydırmak)
+Shift key   üst karakter tuşu
+short   kısa
+shortcut    kısayol
+shortcut key    kısa yol tuşu
+show    göstermek
+shredder    kağıt öğütücü
+shrink  küçültmek
+sibling element kardeş öğe
+side    yan
+Sidebars    Kenar çubukları
+Side by Side    yan yana
+sift    elemek
+sight   görüş
+sign    im
+signal  im
+signature   imza
+sign-off    oturumu kapamak
+sign-on oturumu açmak
+simple  yalın
+simplex tekyönlü
+simulate    benzetim yapmak
+simulation  benzetim
+simulator   benzetici
+simultaneous    eşanlı
+single  tek
+single precision    tek duyarlıklı
+singular    tekil
+singularity tekillik
+sink    alıcı
+size    boyut
+size    büyüklük
+skeleton    çatı
+skew    çarpıklık
+skip    atlamak
+slack   serbestlik
+slant   eğik
+slave station, tributary station    bağımlı uçbirim
+sleeping mode, dormant state    uyku durumu
+slice   dilim
+Slide   saydam
+slot    yuva
+slot reader yuvalı okuyucu
+Slow    Yavaş
+slowdown    yavaşlamak
+slow motion ağır çekim
+small caps  küçük büyük harf
+smart card  akıllı kart
+smart quotation mark    akıllı tırnak imi
+smart quotes    akıllı tırnaklar
+smooth  düzgün
+sneak current   sızıntı akım
+soft copy   elektronik kopya
+software    yazılım
+software reset  yeniden başlatmak (yazılımla)
+solid   katı
+solid   kesiksiz
+solid state katı durum
+Some    Bazı
+sort    sıralamak
+sorting criteria    sıralama ölçütü
+sort order  sıralama düzeni
+sort sequence   sıralama ardışımı
+sound   ses
+space   alan
+space   boşluk
+space bar   ara çubuğu
+space character boşluk karakteri
+spacing aralık bırakma
+span    yayılmak
+speaker hoparlör
+speaker konuşmacı
+specific    belirli
+specification   belirtim
+Specify Belirtmek
+speech recognition  konuşma tanıma
+speed   hız
+spell checking  yazım denetimi
+spike   ani voltaj yükselmesi
+spike   depo
+spin    döndürmek
+spindle mil
+splitter    dallandırıcı (LAN)
+spool   makara
+spooler bekletici
+spooling    bekletme
+spool printing  bekleterek baskı
+spot    leke
+spray   püskürteç
+spray   püskürtmek
+spreadsheet Hesap Çizelgesi
+sprite graphics hareketli grafik
+stability   kararlılık
+stack   yığın
+stacker yığıcı
+stand-alone bağımsız
+stand-alone tek başına
+stand-alone modem   dış modem
+standard    standart
+standby yedek
+standby bekleme
+star network    yıldız ağ
+star/ring network   yıldız/halka ağ
+start   başlatmak
+start   başla
+Startup disk    Başlatma disketi
+startup screen  başlangıç ekranı
+statement   deyim
+state of the art technology en gelişkin teknoloji
+state, status   durum
+static  duruk
+Stationary pad  Kalıcı dosya
+Statistics  sayımlama
+Status bar  Durum çubuğu
+step    adım
+Step by step    Adım adım
+Sticky keys Yapışkan tuşlar
+stop    durdurmak
+stop    durmak
+storage bellek
+storage depolama
+storage device  saklama aygıtı
+storage pool    bellek havuzu
+store   depolamak
+stream  akım
+streaming   duraksız işlem
+streaming mode  duraksız kip
+streaming tape drive    duraksız manyetik bant sürücü
+strike out  çıkartmak
+Strikethrough/ Strikethru   üstü çizgili
+string  dizgi
+stripe  ince şerit
+stroke  vuruş
+structure   yapı
+structured  yapısal
+structured analysis yapısal çözümleme
+structured design   yapısal tasarım
+structured programming  yapısal programlama
+Structured Query Language   Yapılandırılmış Sorgu Dili
+structured walk-through yapısal gözden geçirme
+stub cable, drop cable  saplama kablo
+style   biçem
+sub-    alt-
+subdirectory    altdizin
+subject konu
+subject özne
+Submenu Alt menü
+submit  sunmak
+subnet  alt ağ
+subroutine  altprogram
+Subscribe   sürdürüm
+Subscribe   sürdürümcü olmak
+Subscriber  sürdürümcü
+subscript   altsimge
+subset  altküme
+substitute  değiştirmek
+substitute  yedek
+substitute  yerine koymak
+subtract    çıkarmak
+suffix  sonek
+Suggestion  Öneriler
+Suggest(to) Önermek
+sum toplamak
+summary özet
+summary report  özet rapor
+superscript üstsimge
+supersede   yerini almak
+supervisor  gözetici
+Supplemental    Tamamlayıcı
+support destek
+support desteklemek
+surface chart   yüzey çizimi
+suspend askıya almak
+suspended program   askıdaki program
+swap    getir götür
+swap file   getir götür kütüğü
+swap-in getirme
+swap-out    götürme
+switch  anahtar
+switch  anahtarlamak
+switched line   anahtarlamalı hat
+switcher    anahtarlayıcı
+switching   anahtarlama
+switch off  kapamak
+switch on   açmak
+syllable    hece
+syllable hyphen hece ayırma çizgisi
+symbol  simge
+symmetric   bakışımlı
+synchronous anuyumlu
+synergic    birlikte çalışan
+synergy birliktelik
+Synonym eşanlamlı
+syntax  sözdizim
+syntax error    sözdizimi hatası
+synthesis   bireşim
+synthesizer bireştirici
+system  sistem
+system analysis sistem çözümleme
+system analyst  sistem çözümleyici
+system board    sistem kartı
+system integration  sistem bütünleştirme
+system prompt   sistem komut istemi
+Systems Application Architecture(SAA)   Sistem Uygulama Mimarisi
+tab sekme
+Tab Delimited   sekmeyle ayrılmış
+Tab Dialog  Etiketli iletişim kutusu
+table   çizelge
+Table cell  Tablo gözesi
+Table of Contents   içindekiler
+tablet  tablet
+tabloid tabloid
+tab marker  tab imleyici
+Tab Position    Sekme konumu
+tab ruler   tab cetveli
+Tab stop    sekme durağı
+tabulate    çizelgelemek
+tag biçim imi
+tag yönlendirme imi
+Tagged Image File Format file(TIFF) TIFF
+tailor  uyarlamak
+tape    manyetik bant
+Tape backup device  manyetik bant yedekleme aygıtı
+tape deck   manyetik kart birimi
+tape mark   manyetik bant imi
+tape reel   bant makarası
+target  hedef
+tariff  tarife
+task    görev
+task force  çalışma kolu
+Task list   Görev listesi
+technical   teknik
+telecommunication   uziletişim
+teleconferencing    uziletişimli toplantı
+teleprocessing  uzişlem
+teleprocessing network  uzişlem ağı
+template    şablon
+temporary   geçici
+tensile gerilme
+tentative   geçici
+term    terim
+terminal    uçbirim
+terminal emulation  uçbirim öykünmesi
+terminate   sonlandırmak
+terminate and stay resident bitince yerleşik kalan
+Terminator  Sonlandırıcı
+test    sınamak
+text    metin
+text editor metin düzenleyici
+texture(graphics)   doku
+texture map doku eşlemi
+theory  kuram
+thermal ısıl
+Thesaurus   Eşanlamlılar
+thick   kalın
+Thin    İnce
+third party üçüncü parti
+This disk is damaged    Bu disk hasarlı
+thousands separator binlik basamak ayırıcı
+Thread  iş parçacığı
+threshold   eşik
+throughput  üretilen iş
+tick    im
+tick    imlemek
+tie line    özel bağlantı numarası
+tightly coupled sıkı bağlı
+tile    döşe
+time    saat
+time    zaman
+time format zaman biçimi
+time frame, time slice  zaman dilimi
+time interval   zaman aralığı
+time out, timeout   zaman aşımı
+timer   süre ölçer
+time sharing    zaman paylaşımı
+time stamp  zaman damgası
+Time Zone   Saat dilimi
+tip ipucu
+tip fiş ucu
+title   başlık
+title bar   başlık çubuğu
+Title Page  Başlık sayfası
+toggle button   iki konumlu düğme
+Toggle keys geçiş tuşları
+token file  alıntı kütüğü
+token ring network  simgeli halka ağı
+tone    ses
+tone    koyuluk
+tone    ton
+tone dialing    tuşlu arama
+toner   karartıcı
+tool    araç
+Toolbar Araç çubuğu
+Tool Box    Araç Kutusu
+toolkit araç takımı
+Tool palette    Araç paleti
+topdown programming yukarıdan aşağıya programlama
+topic   konu
+top margin  üst kenar boşluğu
+Top of Form(TOF)    Form başı
+Top of page Sayfa başı
+topology    ilinge
+total, sum  toplam
+touch   dokunmak
+touch screen    dokunma duyarlı ekran
+touch sensitive dokunma duyarlı
+trace   iz
+trace   izlemek
+trace log   izleme günlüğü
+track   iz
+track   izlemek
+track ball/trackball    İztopu
+tracking    izleme
+tractor çekici
+trademark   ticari marka
+trade secrets   ticari sırlar
+trail   iz
+trail   izlemek
+trailer artbilgi
+trailer label   artetiket
+Training    Eğitim
+transaction hareket
+transaction driven  harekete dayalı
+transaction file    hareket kütüğü
+transceiver alıcı verici
+transcription machine   yazıya dönüştürme makinesi
+transfer    aktarım
+transfer    aktarmak
+transfer rate   aktarım hızı
+transform   dönüştürmek
+transform   dönüşüm
+transient area  geçici program alanı
+transistor  transistor
+transition  geçiş
+translate   çevirmek
+translator  çevirmen
+transmission    iletim
+transmit    iletmek
+transparent saydam
+transport   taşımak
+trap    yakalamak
+Trash   Çöp Sepeti
+tray    tepsi
+tree network    ağaç ağ
+tree search ağaç yapısında arama
+trigger tetiklemek
+trim    kırpmak
+trivial önemsiz
+TroubleShooting sorun giderme
+TrueType    TrueType
+truncate    kesmek
+trunk   telefon hattı
+trunk cable(ESCON)  ana kablo
+tune    ayar
+tuner   ayarlayıcı
+turnaround time dönüş süresi
+turn-key    anahtar teslimi
+turn off    kapamak
+turn on açmak
+turnover    devir
+turnover    devir hızı
+tutorial    eğitmen
+twin    ikiz
+twinaxial   ikizeksenli
+Two-headed arrow    Çift başlı ok
+Type    tür
+type face, typeface yazıyüzü ailesi
+typematic key   yinelemeli tuş
+typeset karakter dizmek
+Typesetter  Karakter dizicisi
+type (to)   yazmak
+typewriter  yazımakinesi
+UI(User Interface)  Kullanıcı arabirimi
+ultraviolet morötesi
+Unable  olanaksız
+unary   birli
+Unassign(to)    Atamayı kaldırmak
+unattended  gözetimsiz
+unattended operation    gözetimsiz işlem
+unattended operation    gözetimsiz işletim
+unavailable kullanılamaz
+unbalanced  dengelenmemiş
+unbind  bağlantı çözmek
+unblock öbek çözmek
+uncheck(to) onayı kaldır
+unconditional   koşulsuz
+underline   altını çizmek
+underline   altı çizili,
+underscore  altını çizmek
+underscore  altçizgi
+undo    geri almak
+unformatted biçimlenmemiş
+UNINDENT    GİRİNTİSİZ
+uniform birörnek
+union(SQL)  bileşim
+unipolar    tek kutuplu
+unique  benzersiz
+unit    birim
+Unit of measurement ölçü birimi
+universal   evrensel
+Unknown Bilinmeyen
+unlink  bağ çözmek
+unload tape bandı boşa almak
+unlock(to)  kilidi açmak
+unmapped    eşlenmemiş
+unmarked    imlenmemiş
+unmount çıkarmak (devreden)
+unnamed adsız
+unnested    iç içe olmayan
+unnumbered  numarasız
+unordered   sırasız
+unpack  paket çözmek
+unrecoverable   kurtarılamaz
+UNSPIKE(Keyname)    Depoyu boşaltmak
+untitled    adsız
+unwind  makaradan çıkarmak
+Up  Yukarı
+update  güncellemek
+upgrade yükseltme
+upgradeability  büyürlük
+Upgrade kit yükseltme paketi
+upload  yüklemek (yukarı)
+uppercase   büyük harf
+Upside down Baş aşağı
+upsizing    büyütme
+upstream    yukarı akım
+up-time çalışabilirlik süresi
+up-to-date  güncel
+upward compatibility    yukarıya doğru uyumluluk
+usability   kullanılırlık
+usability test  kolay kullanım sınaması
+usable  kullanılır
+user    kullanıcı
+user account    kullanıcı hesabı
+user exit   kullanıcı çıkışı
+user friendly/user-friendly kullanışlı
+user group  kullanıcı grubu
+user id kullanıcı kimliği
+user interaction    kullanıcı etkileşimi
+user profile    kullanıcı belgisi
+User s Guide    Kullanıcı Kılavuzu
+User s Reference    Başvuru Kitabı
+utility (program)   Yardımcı (program)
+vaccine program aşı programı
+Valid   Geçerli
+validate    geçerliğini denetlemek
+validation check    geçerlik denetimi
+value   değer
+variable    değişken
+vary off    kullanılmaz kılmak
+vary on kullanılır kılmak
+vector  yöney
+vector graphic  yöneysel grafik
+vectorial   yöneysel
+vector symbol set(VSS)  yöneysel simge kümesi
+vendor  sağlayıcı
+Venn diagram    Venn çizimi
+verification    doğrulama
+verify  sağlamak (doğruluğunu)
+versatile   çok yönlü
+version sürüm
+version uyarlama
+vertical    düşey
+vertical redundancy check   düşey hata denetimi
+video   görüntü
+video card  görüntü kartı
+videoconferencing   görüntülü toplantı
+Video Graphics Adapter  Video Grafik Bağdaştırıcı
+Video Graphics Array    Video Grafik Dizisi
+video memory    görüntü belleği
+video monitor   görüntü monitörü
+Video screen    Görüntü ekranı
+video tape  görüntü şeridi
+view    görünüm
+view    görüntüleme
+viewpoint   bakış açısı
+virtual sanal
+virtual memory  sanal bellek
+virus   virüs
+vision  görüş
+vision  uzgörüş
+visual  görsel
+vocabulary  söz varlığı
+voice   ses
+voice-grade channel ses kanalı
+voice recognition   ses tanıma
+voice synthesizer   ses bireşimcisi
+void    geçersiz
+volatility  oynaklık
+volume  birim
+volume  cilt
+volume  oylum
+volume  ses düzeyi
+volume label    birim etiketi
+wafer   yonga plakası
+wait    beklemek
+wanding kalemle okuma
+wand (reader)   okuma kalemi
+warm start  sıcak başlatma
+warning uyarı
+Warning beep    uyarı sesi
+warning message uyarı iletisi
+wave    dalga
+wavelength  dalga boyu
+way yol
+Weekday iş günü
+wet ıslak
+Wheel   Teker
+Whole   Bütün
+Wide    geniş
+wide area network   geniş iletişim ağı
+widen(to)   genişletmek
+widow control   yalnız son satır
+widow line  yalnız satır
+width   en
+width   genişlik
+wildcard character  genel arama karakteri
+window  pencere
+wire    tel
+wireless    telsiz
+word    sözcük
+word processing sözcük işlem
+word wrap   sözcük kaydırma
+work    iş
+work    çalışmak
+work breakdown structure    iş dökümü yapısı
+Work file   Çalışma kütüğü
+working directory   yürürlükteki dizin çalışma
+worksheet   İşlem Tablosu
+worksheet   taslak
+Workspace   Çalışma alanı
+workstation iş istasyonu
+worm(write-once-read-many)  WORM
+wraparound  sarım
+write   yazmak
+write access    yazma erişimi
+write access    yazmak için
+write enable notch  yazılabilir çentiği
+write protected yazma korumalı
+write protect notch yazmaya karşı koruma çentiği
+write protect tab   yazmaya karşı koruma anahtarı
+zero index carrier return   aynı satırda satırbaşı
+Zip Code    Posta kodu
+zone    bölge
+zoom in büyütmek
+zoom in yaklaştırmak
+zoom out    küçültmek
+zoom out    uzaklaştırmak
+zoom (to)   büyütmek
+zoom(to)    Yakınlaştırmak
