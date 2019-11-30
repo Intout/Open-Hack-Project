@@ -1,0 +1,19 @@
+//for example text = ("gfdfshdfshsjgh")
+//for example key_words = ("g")
+
+
+def res():
+  res = text.count(key_words)
+  
+  return res
+
+print ("result=" ,res())
+
+
+
+//for example percentOfKW = 0,15
+
+def accuarty():
+  act = res()*percentOfKW
+
+  return act
