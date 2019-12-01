@@ -11,7 +11,9 @@ import wikipedia
                 meaning = page.content
                 parsedMeaning = meaning.split("\n")
                 meaningList.append(parsedMeaning[0])
+                return meaningList
             except:
                 print("Can't found!")
+                return 0
 
 
